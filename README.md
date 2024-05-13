@@ -16,7 +16,6 @@
 
 `./Socket/SocketByC/test.c`
 
-![]("./Socket/imgs/sockeTestByc.png")
 
 ###  C++实现 socket套接字网络连接功能
 
